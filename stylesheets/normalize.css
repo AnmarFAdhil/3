@@ -1,18 +1,8 @@
 body {
+    width:100%;
 }
 
-/*div
-{
-    padding-right:15px;
-    margin-right :10px;
-    margin-left :10px;
-    float:left;
-    width:450px;
-    height:200px;
- border:1px solid   ;
-    border-width:2px;
-    background-color :gray ;
-}*/
+
 div > p{
     width:100%;
 font-size:22px;
